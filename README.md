@@ -16,7 +16,7 @@ E para esse projeto você deve desenvolver um programa capaz de:
 
 Você pode adaptar o jogo ao seu projeto criado anteriormente (por exemplo fazer um: "Espada, Escudo e Magia") para incrementar ainda mais o seu projeto. Apenas lembre-se de deixar claro para o usuário como funcionará o jogo nesse caso (quem ganha e quem perde de quem)."
 
-O projeto conta com conteúdos vistos na terceira semana do primeiro módulo do curso da Blue, como:
+O projeto conta com conteúdos vistos na segunda semana do primeiro módulo do curso da Blue, como:
 - Variáveis
 - Operadores matemáticos
 - Condicionais
